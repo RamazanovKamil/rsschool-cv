@@ -22,6 +22,7 @@ Form of study: Full-time.
 Average diploma score: 5.0.
 ---
 __Additional skills__
+
 Carrying out high-risk work (fire work).
 Computer 3D modeling, execution of design drawings using computer graphics, reading functional automation schemes.
 Microsoft Office (Word, Excel, PowerPoint, Visio), Archicad, Blender.
@@ -29,5 +30,6 @@ I own a PC at the level of an experienced user, I know how to use office office 
 I speak English at a basic level (I speak a little and translate with dictionaries).
 ---
 __Personal qualities__
+
 punctuality, accuracy, diligence, responsibility, discipline, desire to develop and always learn new things.
 _Interests, hobbies:_ active recreation, sports; 3D modeling; learning a foreign (English) language.

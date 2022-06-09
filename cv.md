@@ -5,6 +5,7 @@ ___i'm 25 years old___
 __e-mail:__
 runner27la@gmail.com
 ---
+
 __Education__
 1. General average: 2003 – 2014
 Name of the educational institution: Tatar Gymnasium No. 1 named after Rizy Fakhretdin, Almetyevsk.
@@ -21,6 +22,7 @@ Qualification: Master's degree.
 Form of study: Full-time.
 Average diploma score: 5.0.
 ---
+
 __Additional skills__
 
 Carrying out high-risk work (fire work).
@@ -29,6 +31,7 @@ Microsoft Office (Word, Excel, PowerPoint, Visio), Archicad, Blender.
 I own a PC at the level of an experienced user, I know how to use office office equipment.
 I speak English at a basic level (I speak a little and translate with dictionaries).
 ---
+
 __Personal qualities__
 
 punctuality, accuracy, diligence, responsibility, discipline, desire to develop and always learn new things.

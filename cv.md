@@ -1,6 +1,6 @@
 # Ramazanov Kamil
 
-___ i'm 25 years old ___
+___i'm 25 years old___
 
 __e-mail:__
 runner27la@gmail.com
@@ -22,6 +22,7 @@ Form of study: Full-time.
 Average diploma score: 5.0.
 ---
 __Additional skills__
+
 Carrying out high-risk work (fire work).
 Computer 3D modeling, execution of design drawings using computer graphics, reading functional automation schemes.
 Microsoft Office (Word, Excel, PowerPoint, Visio), Archicad, Blender.
